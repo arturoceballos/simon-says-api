@@ -1,2 +1,6 @@
-# Reminders Skill API
-API endpoint to handle reminder data for Amazon Alexa reminders skill
+#  Simon Says API
+The API that tells Simon what to do.
+
+```
+"Simon, turn green fool!"
+```
